@@ -6,6 +6,9 @@ nav {
     display: flex;
     justify-content: space-between;
     padding: 5px 10px 0px 10px;
+}
+
+h3 {
     color: #fbf5f7;
 }
 
