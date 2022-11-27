@@ -1,5 +1,5 @@
 import React from 'react';
-import Profile from '../assets/images/me.png';
+import Profile from '../assets/images/profilepic.png';
 import '../styles/about.css';
 
 export default function About() {
