@@ -9,7 +9,7 @@ export default function Nav({ handlePageChange }) {
                 <ul className='navlinks'>
                     <li><a href="#about" onClick={() => handlePageChange('about')}>About Me</a></li>
                     <li><a href="#portfolio" onClick={() => handlePageChange('portfolio')}>Portfolio</a></li>
-                    <li><a href="/">Contact</a></li>
+                    <li><a href="#contact" onClick={() => handlePageChange('contact')}>Contact</a></li>
                     <li><a href="/">Resume</a></li>
                 </ul>
             </nav>
