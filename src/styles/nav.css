@@ -22,6 +22,10 @@ nav ul li a:hover {
     color: #eed97c;
 }
 
+nav ul li a:active {
+    color: #eed97c;
+}
+
 .navlinks {
     list-style: none;
 }

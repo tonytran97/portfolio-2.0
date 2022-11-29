@@ -29,7 +29,7 @@ export default function App() {
 
   return (
     <div>
-      <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
+      <Nav handlePageChange={handlePageChange} />
       {renderPage()}
       <Footer />
     </div>
