@@ -48,3 +48,4 @@ Portfolio deployed to GitHub Pages is available [here](https://tonytran97.github
 
 - Tony Tran
   - [GitHub](https://github.com/tonytran97)
+  - [LinkedIn](https://www.linkedin.com/in/tony-tran-2b8aa4242/)

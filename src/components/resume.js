@@ -6,7 +6,7 @@ export default function Resume() {
         <section className="my-5 text-center">
             <div className="my-2">
                 <p>
-                    Download my <a href={TechResume} target="_blank" rel="noreferrer" >Resume</a>
+                    Download my <a href={TechResume} target="_blank" rel="noreferrer" className='resume' >Resume</a>
                 </p>
                 <div className="card-header">
                     A few languages and tools that I am familiar with...
