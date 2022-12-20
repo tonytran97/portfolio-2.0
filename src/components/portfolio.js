@@ -5,10 +5,18 @@ import WhatsForDinner from '../assets/images/whats-for-dinner.png';
 import WeatherDashboard from '../assets/images/weather-dashboard.png';
 import WorkDayScheduler from '../assets/images/work-day-scheduler.png';
 import RockPaperScissors from '../assets/images/rock-paper-scissors.png';
+import GoMode from '../assets/images/GoMode.png';
 import '../styles/portfolio.css';
 
 export default function Portfolio() {
     const projects = [
+        {
+            name: 'GoMode',
+            description: 'GoMode, is a place to find, post, and take on volunteer opportunities in your community.',
+            link: "https://gomodez.herokuapp.com/",
+            repo: "https://github.com/zshep/Fortress_of_Solitude",
+            image: GoMode,
+        },
         {
             name: 'ReadIt',
             description: 'As a book lover, you can now join a community of people who share that same passion, finding many different reviews and opinions about books of all kinds.',
